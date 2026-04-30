@@ -8,9 +8,9 @@ ________________________________________
 
 ## Projects
 
-***Go TF-IDF***
-Tech: Go, Gin, Gorm, Testify, gRPC, Clean Architecture
-Overview: A project for developing hexagonal and clean architecture approaches and domain development.
+***Go TF-IDF*** \
+Tech: Go, Gin, Gorm, Testify, gRPC, Clean Architecture \
+Overview: A project for developing hexagonal and clean architecture approaches and domain development. \
 Code and more: https://gitlab.com/Lixerus/tf-idf-go
 
 **RealTimeChat** - personal project \
