@@ -1,14 +1,18 @@
 ## Hi, I am Timur 👋
-### I am junior backend developer from St Petersburg looking for a full time job. I have 1 year of non-commercial development experience and bachelor degree in Computer Sciense from SPbU.
+### I am junior backend developer from St Petersburg. I have 1 year of commercial development experience and bachelor degree in Computer Sciense from SPbU.
 ________________________________________
 
-### My HeadHunter CV: https://spb.hh.ru/resume/0dc76843ff0e0b50550039ed1f346e63744950
-_________________________
 ## Tech Stack
- - *Python 3, JavaScript, Go, PostgreSQL, SQLite, Linux, Docker, Git, RabbitMQ, Redis, Nginx, WebSockets*.
- - Libraries and frameworks: *FastAPI, Django, Django Rest Framework, SQLAlchemy, Pydantic, React, Gin*.
+ - *Python 3, Go, JavaScript, PostgreSQL, SQLite, Linux, Docker, Git, RabbitMQ, Redis, Nginx, WebSockets*.
+ - Libraries and frameworks: *FastAPI, Django, Django Rest Framework, SQLAlchemy, Pydantic, React, Gin, GORM*.
 
 ## Projects
+
+***Go TF-IDF***
+Tech: Go, Gin, Gorm, Testify, gRPC, Clean Architecture
+Overview: A project for developing hexagonal and clean architecture approaches and domain development.
+Code and more: https://gitlab.com/Lixerus/tf-idf-go
+
 **RealTimeChat** - personal project \
 Tech: *Python 3.13, FastAPI, Nginx, RabbitMQ, Redis, Docker, JavaScript, Git* \
 Overview: Scalable fault tolerant real time messaging app on websockets. \
